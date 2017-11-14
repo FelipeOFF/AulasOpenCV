@@ -1,0 +1,19 @@
+# Target labels
+ Extra
+ opencv_plot
+ Module
+# Source files and their labels
+/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/plot/include/opencv2/plot.hpp
+ Extra
+ opencv_plot
+ Module
+/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/plot/src/plot.cpp
+ Extra
+ opencv_plot
+ Module
+/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/plot/src/precomp.hpp
+ Extra
+ opencv_plot
+ Module
+/Volumes/HD/Cursos/opencv/libs/build/cvconfig.h
+/Volumes/HD/Cursos/opencv/libs/build/opencv2/opencv_modules.hpp

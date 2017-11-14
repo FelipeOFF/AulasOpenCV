@@ -1,0 +1,42 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/text/test/test_detection.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_text",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/text/test/test_main.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_text",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/text/test/test_precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_text",
+				"AccuracyTest"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_text",
+			"AccuracyTest"
+		],
+		"name" : "opencv_test_text"
+	}
+}

@@ -1,0 +1,66 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/bgsegm/include/opencv2/bgsegm.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_bgsegm",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/bgsegm/src/bgfg_gaussmix.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_bgsegm",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/bgsegm/src/bgfg_gmg.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_bgsegm",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/bgsegm/src/bgfg_subcnt.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_bgsegm",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/bgsegm/src/precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_bgsegm",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/build/cvconfig.h"
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/build/opencv2/opencv_modules.hpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_bgsegm",
+			"Module"
+		],
+		"name" : "opencv_bgsegm"
+	}
+}

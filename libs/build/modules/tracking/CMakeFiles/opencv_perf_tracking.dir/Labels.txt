@@ -1,0 +1,17 @@
+# Target labels
+ Extra
+ opencv_tracking
+ PerfTest
+# Source files and their labels
+/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/tracking/perf/perf_Tracker.cpp
+ Extra
+ opencv_tracking
+ PerfTest
+/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/tracking/perf/perf_main.cpp
+ Extra
+ opencv_tracking
+ PerfTest
+/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/tracking/perf/perf_precomp.hpp
+ Extra
+ opencv_tracking
+ PerfTest

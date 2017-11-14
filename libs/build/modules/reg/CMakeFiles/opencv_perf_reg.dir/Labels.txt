@@ -1,0 +1,17 @@
+# Target labels
+ Extra
+ opencv_reg
+ PerfTest
+# Source files and their labels
+/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/reg/perf/perf_main.cpp
+ Extra
+ opencv_reg
+ PerfTest
+/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/reg/perf/perf_reg.cpp
+ Extra
+ opencv_reg
+ PerfTest
+/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/reg/perf/perf_precomp.hpp
+ Extra
+ opencv_reg
+ PerfTest

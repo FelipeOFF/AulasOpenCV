@@ -1,0 +1,204 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/optflow/include/opencv2/optflow.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_optflow",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/optflow/include/opencv2/optflow/motempl.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_optflow",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/optflow/include/opencv2/optflow/pcaflow.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_optflow",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/optflow/include/opencv2/optflow/sparse_matching_gpc.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_optflow",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/optflow/src/deepflow.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_optflow",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/optflow/src/dis_flow.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_optflow",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/optflow/src/interfaces.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_optflow",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/optflow/src/motempl.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_optflow",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/optflow/src/optical_flow_io.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_optflow",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/optflow/src/pcaflow.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_optflow",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/optflow/src/simpleflow.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_optflow",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/optflow/src/sparse_matching_gpc.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_optflow",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/optflow/src/sparsetodenseflow.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_optflow",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/optflow/src/variational_refinement.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_optflow",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/optflow/src/opencl/dis_flow.cl",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_optflow",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/optflow/src/opencl/sparse_matching_gpc.cl",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_optflow",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/optflow/src/opencl/updatemotionhistory.cl",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_optflow",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/build/modules/optflow/opencl_kernels_optflow.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_optflow",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/build/modules/optflow/opencl_kernels_optflow.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_optflow",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/optflow/src/precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_optflow",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/build/cvconfig.h"
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/build/opencv2/opencv_modules.hpp"
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/build/modules/optflow/opencl_kernels_optflow.cpp.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_optflow",
+			"Module"
+		],
+		"name" : "opencv_optflow"
+	}
+}

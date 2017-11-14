@@ -1,0 +1,47 @@
+# Target labels
+ Extra
+ opencv_line_descriptor
+ Module
+# Source files and their labels
+/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/line_descriptor/include/opencv2/line_descriptor.hpp
+ Extra
+ opencv_line_descriptor
+ Module
+/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/line_descriptor/include/opencv2/line_descriptor/descriptor.hpp
+ Extra
+ opencv_line_descriptor
+ Module
+/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/line_descriptor/src/LSDDetector.cpp
+ Extra
+ opencv_line_descriptor
+ Module
+/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/line_descriptor/src/binary_descriptor.cpp
+ Extra
+ opencv_line_descriptor
+ Module
+/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/line_descriptor/src/binary_descriptor_matcher.cpp
+ Extra
+ opencv_line_descriptor
+ Module
+/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/line_descriptor/src/draw.cpp
+ Extra
+ opencv_line_descriptor
+ Module
+/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/line_descriptor/src/bitarray.hpp
+ Extra
+ opencv_line_descriptor
+ Module
+/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/line_descriptor/src/bitops.hpp
+ Extra
+ opencv_line_descriptor
+ Module
+/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/line_descriptor/src/precomp.hpp
+ Extra
+ opencv_line_descriptor
+ Module
+/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/line_descriptor/src/types.hpp
+ Extra
+ opencv_line_descriptor
+ Module
+/Volumes/HD/Cursos/opencv/libs/build/cvconfig.h
+/Volumes/HD/Cursos/opencv/libs/build/opencv2/opencv_modules.hpp

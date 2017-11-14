@@ -1,0 +1,51 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/xphoto/perf/perf_grayworld.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xphoto",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/xphoto/perf/perf_learning_based_color_balance.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xphoto",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/xphoto/perf/perf_main.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xphoto",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/xphoto/perf/perf_precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xphoto",
+				"PerfTest"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_xphoto",
+			"PerfTest"
+		],
+		"name" : "opencv_perf_xphoto"
+	}
+}

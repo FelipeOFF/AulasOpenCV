@@ -1,0 +1,43 @@
+# Target labels
+ Extra
+ opencv_ccalib
+ Module
+# Source files and their labels
+/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/ccalib/include/opencv2/ccalib.hpp
+ Extra
+ opencv_ccalib
+ Module
+/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/ccalib/include/opencv2/ccalib/multicalib.hpp
+ Extra
+ opencv_ccalib
+ Module
+/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/ccalib/include/opencv2/ccalib/omnidir.hpp
+ Extra
+ opencv_ccalib
+ Module
+/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/ccalib/include/opencv2/ccalib/randpattern.hpp
+ Extra
+ opencv_ccalib
+ Module
+/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/ccalib/src/ccalib.cpp
+ Extra
+ opencv_ccalib
+ Module
+/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/ccalib/src/multicalib.cpp
+ Extra
+ opencv_ccalib
+ Module
+/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/ccalib/src/omnidir.cpp
+ Extra
+ opencv_ccalib
+ Module
+/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/ccalib/src/randpattern.cpp
+ Extra
+ opencv_ccalib
+ Module
+/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/ccalib/src/precomp.hpp
+ Extra
+ opencv_ccalib
+ Module
+/Volumes/HD/Cursos/opencv/libs/build/cvconfig.h
+/Volumes/HD/Cursos/opencv/libs/build/opencv2/opencv_modules.hpp

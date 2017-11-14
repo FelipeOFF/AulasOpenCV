@@ -1,0 +1,138 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/rgbd/include/opencv2/rgbd.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_rgbd",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/rgbd/include/opencv2/rgbd/linemod.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_rgbd",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/rgbd/src/depth_cleaner.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_rgbd",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/rgbd/src/depth_registration.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_rgbd",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/rgbd/src/depth_to_3d.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_rgbd",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/rgbd/src/linemod.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_rgbd",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/rgbd/src/normal.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_rgbd",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/rgbd/src/odometry.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_rgbd",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/rgbd/src/plane.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_rgbd",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/rgbd/src/utils.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_rgbd",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/rgbd/src/precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_rgbd",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/rgbd/src/depth_to_3d.h",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_rgbd",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/rgbd/src/utils.h",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_rgbd",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/build/cvconfig.h"
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/build/opencv2/opencv_modules.hpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_rgbd",
+			"Module"
+		],
+		"name" : "opencv_rgbd"
+	}
+}

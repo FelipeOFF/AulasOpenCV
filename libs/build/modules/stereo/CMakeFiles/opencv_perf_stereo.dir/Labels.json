@@ -1,0 +1,51 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/stereo/perf/perf_bm.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_stereo",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/stereo/perf/perf_descriptor.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_stereo",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/stereo/perf/perf_main.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_stereo",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/stereo/perf/perf_precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_stereo",
+				"PerfTest"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_stereo",
+			"PerfTest"
+		],
+		"name" : "opencv_perf_stereo"
+	}
+}

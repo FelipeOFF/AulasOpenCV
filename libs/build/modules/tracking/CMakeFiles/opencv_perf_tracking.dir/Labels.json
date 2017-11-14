@@ -1,0 +1,42 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/tracking/perf/perf_Tracker.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_tracking",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/tracking/perf/perf_main.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_tracking",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "/Volumes/HD/Cursos/opencv/libs/opencv-3.3.1/contrib/tracking/perf/perf_precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_tracking",
+				"PerfTest"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_tracking",
+			"PerfTest"
+		],
+		"name" : "opencv_perf_tracking"
+	}
+}
